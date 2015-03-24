@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>ABD Share Chat Feed - London South East</title>
+    <link>http://www.lse.co.uk/</link>
+    <description>ABD Share Chat Feed - London South East</description>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 18 Jan 2015 14:09:17 GMT</lastBuildDate>
+    <copyright>2013 London South East</copyright>
+    <docs>http://www.lse.co.uk/rss/</docs>
+    <ttl>5</ttl>
+    <item>
+      <title>[stuzeeuk] Going no where</title>
+      <author>stuzeeuk</author>
+      <description><![CDATA[Anyone got a good reason why i shouldn't punt this one ?]]></description>
+      <link>http://www.lse.co.uk/shareChat.asp?ShareTicker=ABD&amp;post=10567408</link>
+      <pubDate>Fri, 09 Jan 2015 00:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[stuzeeuk] still down</title>
+      <author>stuzeeuk</author>
+      <description><![CDATA[despite recent gains this one seems still to be struggling]]></description>
+      <link>http://www.lse.co.uk/shareChat.asp?ShareTicker=ABD&amp;post=9572088</link>
+      <pubDate>Tue, 12 Aug 2014 19:19:56 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
